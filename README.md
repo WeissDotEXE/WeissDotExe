@@ -1,1 +1,1 @@
-[![GitHub Streak](https://streak-stats.demolab.com/?user=WeissDotExe)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=WeissDotExe&theme=radical)](https://git.io/streak-stats)
